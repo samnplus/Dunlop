@@ -434,6 +434,7 @@
   width:375px;
   height:523px;
   overflow:hidden;
+  touch-action:none;
 }
 #u13_state0 {
   border-width:0px;
@@ -718,7 +719,7 @@
 #u24 {
   border-width:0px;
   position:absolute;
-  left:20px;
+  left:202px;
   top:619px;
   width:154px;
   height:81px;
@@ -743,7 +744,7 @@
 #u25 {
   border-width:0px;
   position:absolute;
-  left:202px;
+  left:20px;
   top:619px;
   width:154px;
   height:81px;
