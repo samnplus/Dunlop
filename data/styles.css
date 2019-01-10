@@ -73,6 +73,11 @@
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
+.snapshot {
+}
 ._流程形状 {
 }
 ._图片_1 {
@@ -82,4 +87,8 @@
 .box_1 {
 }
 .box_2 {
+}
+.flow_shape1 {
+}
+.button {
 }
