@@ -76,6 +76,9 @@
 .checkbox {
   text-align:left;
 }
+.tree_node {
+  text-align:left;
+}
 .snapshot {
 }
 ._流程形状 {
@@ -94,7 +97,11 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 .table_cell {
+}
+.menu_item {
 }
 .box_11 {
   font-family:'微软雅黑';
